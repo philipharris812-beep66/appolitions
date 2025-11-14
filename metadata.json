@@ -1,0 +1,5 @@
+{
+  "name": "AquaScope: Fish Identifier",
+  "description": "An interactive reference catalogue that uses AI to identify fish species from an uploaded image. Get detailed information including common name, scientific name, habitat, diet, and more.",
+  "requestFramePermissions": []
+}
